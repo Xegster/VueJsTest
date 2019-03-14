@@ -11,7 +11,7 @@
 export default {
   data() {
     return {
-      message: 'Hello world!',
+      message: 'Hello world TEST!',
     };
   },
 };
